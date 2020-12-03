@@ -8,14 +8,14 @@
 	</metaInfo>
 	<colors>
 		<!--		Darcula 629755 -->
-<!--		Brighter -->
+		<!--		Brighter -->
 		<option name="ADDED_LINES_COLOR" value="8db982"/>
 		<option name="FILESTATUS_ADDED" value="8db982"/>
 		<option name="FILESTATUS_COPIED" value="8db982"/>
 		<option name="FILESTATUS_addedOutside" value="8db982"/>
 
 		<!--		Darcula 6897bb -->
-<!--		Brighter -->
+		<!--		Brighter -->
 		<option name="MODIFIED_LINES_COLOR" value="5a8eb5"/>
 		<option name="FILESTATUS_MODIFIED" value="5a8eb5"/>
 		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5a8eb5"/>
