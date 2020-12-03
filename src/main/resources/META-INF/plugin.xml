@@ -9,7 +9,7 @@
     ]]></description>
 	<depends>com.intellij.modules.platform</depends>
 	<extensions defaultExtensionNs="com.intellij">
-		<themeProvider id="cc9aaf99-8ccc-44e2-92d0-b4949da8e8d0" path="Darcula_Solid_Clean.theme.json"/>
+		<themeProvider id="cc9aaf99-8ccc-44e2-92d0-b4949da8e8d0" path="Dracula_Solid_Clean.theme.json"/>
 	</extensions>
 	<actions/>
 </idea-plugin>
