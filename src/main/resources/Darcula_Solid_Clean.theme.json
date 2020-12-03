@@ -2,7 +2,7 @@
 	"name": "Darcula Solid Clean",
 	"dark": true,
 	"author": "Adam Wojszczyk",
-	"editorScheme": "/Dracula_Solid_Clean.xml",
+	"editorScheme": "/Darcula_Solid_Clean.xml",
 	"ui": {
 		"*": {
 			"background": "#131314",

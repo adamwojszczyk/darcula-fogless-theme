@@ -4,17 +4,17 @@
 		<property name="ide">idea</property>
 		<property name="ideVersion">2020.3</property>
 		<property name="modified">2020-12-03T12:00:00</property>
-		<property name="originalScheme">Dracula Solid Clean</property>
+		<property name="originalScheme">Darcula Solid Clean</property>
 	</metaInfo>
 	<colors>
-<!--		Dracula 629755 -->
+		<!--		Darcula 629755 -->
 <!--		Brighter -->
 		<option name="ADDED_LINES_COLOR" value="8db982"/>
 		<option name="FILESTATUS_ADDED" value="8db982"/>
 		<option name="FILESTATUS_COPIED" value="8db982"/>
 		<option name="FILESTATUS_addedOutside" value="8db982"/>
 
-<!--		Dracula 6897bb -->
+		<!--		Darcula 6897bb -->
 <!--		Brighter -->
 		<option name="MODIFIED_LINES_COLOR" value="5a8eb5"/>
 		<option name="FILESTATUS_MODIFIED" value="5a8eb5"/>
