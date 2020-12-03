@@ -1,15 +1,15 @@
 <idea-plugin>
-    <id>com.github.adamwojszczyk.draculaSolidCleanTheme</id>
-    <name>Dracula Solid Clean Theme</name>
+	<id>com.github.adamwojszczyk.draculaSolidCleanTheme</id>
+	<name>Dracula Solid Clean Theme</name>
 	<version>0.0.0</version>
-    <vendor email="adam.wojszczyk@gmail.com" >Adam Wojszczyk</vendor>
-    <description><![CDATA[
+	<vendor email="adam.wojszczyk@gmail.com">Adam Wojszczyk</vendor>
+	<description><![CDATA[
     A dark clean theme based on Dracula Solid Theme -> Dracula but with more contrast.
     Removes gray sidebars background making it the same as in the editor.
     ]]></description>
-    <depends>com.intellij.modules.platform</depends>
-    <extensions defaultExtensionNs="com.intellij">
+	<depends>com.intellij.modules.platform</depends>
+	<extensions defaultExtensionNs="com.intellij">
 		<themeProvider id="cc9aaf99-8ccc-44e2-92d0-b4949da8e8d0" path="Darcula_Solid_Clean.theme.json"/>
-    </extensions>
-    <actions/>
+	</extensions>
+	<actions/>
 </idea-plugin>
