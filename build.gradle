@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+    id 'org.jetbrains.intellij' version '0.6.5'
+}
+
+group 'com.github.adamwojszczyk'
+version '0.0.0'
+
+repositories {
+    mavenCentral()
+}
+
+intellij {
+    version '2020.3'
+}
+patchPluginXml {
+    changeNotes """
+      Add change notes here.<br>
+      <em>most HTML tags may be used</em>"""
+}
+test {
+    useJUnitPlatform()
+}
