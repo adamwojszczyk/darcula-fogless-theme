@@ -7,9 +7,24 @@
 		<property name="originalScheme">Dracula Solid Clean</property>
 	</metaInfo>
 	<colors>
+<!--		Dracula 629755 -->
+<!--		Brighter -->
+		<option name="ADDED_LINES_COLOR" value="8db982"/>
+		<option name="FILESTATUS_ADDED" value="8db982"/>
+		<option name="FILESTATUS_COPIED" value="8db982"/>
+		<option name="FILESTATUS_addedOutside" value="8db982"/>
+
+<!--		Dracula 6897bb -->
+<!--		Brighter -->
+		<option name="MODIFIED_LINES_COLOR" value="5a8eb5"/>
+		<option name="FILESTATUS_MODIFIED" value="5a8eb5"/>
+		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5a8eb5"/>
+		<option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5a8eb5"/>
+		<option name="FILESTATUS_modifiedOutside" value="6897bb"/>
+
 		<option name="CARET_COLOR" value="f7f7f7"/>
 		<option name="CARET_ROW_COLOR" value="323335"/>
-		<option name="CONSOLE_BACKGROUND_KEY" value="131314"/>
+		<option name="CONSOLE_BACKGROUND_KEY" value="131314 "/>
 		<option name="DOCUMENTATION_COLOR" value="252526"/>
 		<option name="GUTTER_BACKGROUND" value="131314"/>
 		<option name="INDENT_GUIDE" value="2c2c2d"/>
