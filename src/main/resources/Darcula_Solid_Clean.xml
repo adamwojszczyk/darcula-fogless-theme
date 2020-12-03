@@ -1,10 +1,10 @@
-<scheme name="Darcula Solid Clean" version="142" parent_scheme="Darcula">
+<scheme name="Darcula Solid Clean" version="1" parent_scheme="Darcula">
 	<metaInfo>
-		<property name="created">2019-07-05T11:35:25</property>
+		<property name="created">2020-12-03T12:00:00</property>
 		<property name="ide">idea</property>
-		<property name="ideVersion">2019.1.3.0.0</property>
-		<property name="modified">2019-07-05T11:35:35</property>
-		<property name="originalScheme">Darcula Solid</property>
+		<property name="ideVersion">2020.3</property>
+		<property name="modified">2020-12-03T12:00:00</property>
+		<property name="originalScheme">Darcula</property>
 	</metaInfo>
 	<colors>
 		<option name="CONSOLE_BACKGROUND_KEY" value="131314"/>
