@@ -14,11 +14,11 @@
 
 		<!--		Darcula 6897bb -->
 		<!--		Darker -->
-		<option name="MODIFIED_LINES_COLOR" value="5a8eb5"/>
-		<option name="FILESTATUS_MODIFIED" value="5a8eb5"/>
-		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5a8eb5"/>
-		<option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5a8eb5"/>
-		<option name="FILESTATUS_modifiedOutside" value="5a8eb5"/>
+		<option name="MODIFIED_LINES_COLOR" value="#4e85ae"/>
+		<option name="FILESTATUS_MODIFIED" value="#4e85ae"/>
+		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="#4e85ae"/>
+		<option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="#4e85ae"/>
+		<option name="FILESTATUS_modifiedOutside" value="#4e85ae"/>
 
 		<option name="CARET_COLOR" value="f7f7f7"/>
 		<option name="CARET_ROW_COLOR" value="323335"/>
