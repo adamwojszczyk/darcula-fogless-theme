@@ -1,7 +1,6 @@
 <idea-plugin>
 	<id>com.github.adamwojszczyk.darculaSolidCleanTheme</id>
 	<name>Darcula Solid Clean Theme</name>
-	<version>0.0.1</version>
 	<vendor email="adam.wojszczyk@gmail.com">Adam Wojszczyk</vendor>
 	<description><![CDATA[
     <h2>Darcula Solid Clean Theme based on Darcula Solid Theme<h2>

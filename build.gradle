@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.github.adamwojszczyk'
-version '0.0.0'
+version '0.0.1'
 
 intellij {
     version '2020.3'
