@@ -14,17 +14,24 @@
 
 		<!-- Darcula 6897bb -->
 		<!-- Darker -->
-		<option name="MODIFIED_LINES_COLOR" value="#4e85ae"/>
-		<option name="FILESTATUS_MODIFIED" value="#4e85ae"/>
-		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="#4e85ae"/>
-		<option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="#4e85ae"/>
-		<option name="FILESTATUS_modifiedOutside" value="#4e85ae"/>
+		<option name="MODIFIED_LINES_COLOR" value="4e85ae"/>
+		<option name="FILESTATUS_MODIFIED" value="4e85ae"/>
+		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="4e85ae"/>
+		<option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="4e85ae"/>
+		<option name="FILESTATUS_modifiedOutside" value="4e85ae"/>
 
-		<!-- Dracula 2B2B2B -->
+		<!-- Darcula 656e76 -->
+		<!-- Brighter -->
+		<option name="DELETED_LINES_COLOR" value="898989"/>
+		<!-- Darcula 6c6c6c -->
+		<!-- Brighter -->
+		<option name="FILESTATUS_DELETED" value="898989"/>
+		<option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="898989"/>
+
+		<!-- Darcula 2B2B2B -->
 		<!-- Darker -->
 		<option name="CONSOLE_BACKGROUND_KEY" value="131314"/>
-
-		<!-- Dracula 313335 -->
+		<!-- Darcula 313335 -->
 		<!-- Darker -->
 		<option name="GUTTER_BACKGROUND" value="131314"/>
 
