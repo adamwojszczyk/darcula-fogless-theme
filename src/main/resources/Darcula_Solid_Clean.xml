@@ -5,26 +5,32 @@
 		<property name="originalScheme">Darcula Solid Clean</property>
 	</metaInfo>
 	<colors>
-		<!--		Darcula 629755 -->
-		<!--		Brighter -->
+		<!-- Darcula 629755 -->
+		<!-- Brighter -->
 		<option name="ADDED_LINES_COLOR" value="8db982"/>
 		<option name="FILESTATUS_ADDED" value="8db982"/>
 		<option name="FILESTATUS_COPIED" value="8db982"/>
 		<option name="FILESTATUS_addedOutside" value="8db982"/>
 
-		<!--		Darcula 6897bb -->
-		<!--		Darker -->
+		<!-- Darcula 6897bb -->
+		<!-- Darker -->
 		<option name="MODIFIED_LINES_COLOR" value="#4e85ae"/>
 		<option name="FILESTATUS_MODIFIED" value="#4e85ae"/>
 		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="#4e85ae"/>
 		<option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="#4e85ae"/>
 		<option name="FILESTATUS_modifiedOutside" value="#4e85ae"/>
 
+		<!-- Dracula 2B2B2B -->
+		<!-- Darker -->
+		<option name="CONSOLE_BACKGROUND_KEY" value="131314"/>
+
+		<!-- Dracula 313335 -->
+		<!-- Darker -->
+		<option name="GUTTER_BACKGROUND" value="131314"/>
+
 		<option name="CARET_COLOR" value="f7f7f7"/>
 		<option name="CARET_ROW_COLOR" value="323335"/>
-		<option name="CONSOLE_BACKGROUND_KEY" value="131314"/>
 		<option name="DOCUMENTATION_COLOR" value="252526"/>
-		<option name="GUTTER_BACKGROUND" value="131314"/>
 		<option name="INDENT_GUIDE" value="2c2c2d"/>
 		<option name="INFORMATION_HINT" value="252526"/>
 		<option name="RECENT_LOCATIONS_SELECTION" value="252526"/>
