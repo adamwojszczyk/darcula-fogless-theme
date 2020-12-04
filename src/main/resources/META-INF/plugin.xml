@@ -1,13 +1,13 @@
 <idea-plugin>
-	<id>com.github.adamwojszczyk.darculaSolidCleanTheme</id>
+	<id>com.github.adamwojszczyk.darculaSolidClearTheme</id>
 	<name>Darcula Solid Clear Theme</name>
 	<vendor email="adam.wojszczyk@gmail.com">Adam Wojszczyk</vendor>
 	<description><![CDATA[
     <h2>Based on Darcula Solid Theme<h2>
     <ul>
     <li>darker sidebars background</li>
-    <li>more contrast for (added,modified,deleted)</li>
-    <li>change keyword font (bold -> regular)</li>
+    <li>more contrast for added, modified and deleted</li>
+    <li>changed keyword font (bold -> regular)</li>
     </ul>
     <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clear-theme/master/screenshots/main-window.png" border="0" alt="Main window screenshot">
     ]]></description>
