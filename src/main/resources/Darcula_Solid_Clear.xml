@@ -1,8 +1,8 @@
-<scheme name="Darcula Solid Clean" version="142" parent_scheme="Darcula">
+<scheme name="Darcula Solid Clear" version="142" parent_scheme="Darcula">
 	<metaInfo>
 		<property name="ide">idea</property>
 		<property name="ideVersion">2020.3</property>
-		<property name="originalScheme">Darcula Solid Clean</property>
+		<property name="originalScheme">Darcula Solid Clear</property>
 	</metaInfo>
 	<colors>
 		<!-- Darcula 629755 -->
