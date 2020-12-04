@@ -1,9 +1,7 @@
-<scheme name="Darcula Solid Clean" version="1" parent_scheme="Darcula">
+<scheme name="Darcula Solid Clean" version="142" parent_scheme="Darcula">
 	<metaInfo>
-		<property name="created">2020-12-03T12:00:00</property>
 		<property name="ide">idea</property>
 		<property name="ideVersion">2020.3</property>
-		<property name="modified">2020-12-03T12:00:00</property>
 		<property name="originalScheme">Darcula Solid Clean</property>
 	</metaInfo>
 	<colors>
@@ -15,12 +13,12 @@
 		<option name="FILESTATUS_addedOutside" value="8db982"/>
 
 		<!--		Darcula 6897bb -->
-		<!--		Brighter -->
+		<!--		Darker -->
 		<option name="MODIFIED_LINES_COLOR" value="5a8eb5"/>
 		<option name="FILESTATUS_MODIFIED" value="5a8eb5"/>
 		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5a8eb5"/>
 		<option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5a8eb5"/>
-		<option name="FILESTATUS_modifiedOutside" value="6897bb"/>
+		<option name="FILESTATUS_modifiedOutside" value="5a8eb5"/>
 
 		<option name="CARET_COLOR" value="f7f7f7"/>
 		<option name="CARET_ROW_COLOR" value="323335"/>

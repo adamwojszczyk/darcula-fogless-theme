@@ -1,15 +1,16 @@
 <idea-plugin>
-	<id>com.github.adamwojszczyk.draculaSolidCleanTheme</id>
+	<id>com.github.adamwojszczyk.darculaSolidCleanTheme</id>
 	<name>Darcula Solid Clean Theme</name>
 	<version>0.0.0</version>
 	<vendor email="adam.wojszczyk@gmail.com">Adam Wojszczyk</vendor>
 	<description><![CDATA[
-    A dark clean theme based on Darcula Solid Theme -> Darcula but with more contrast.
-    Removes gray sidebars background making it the same as in the editor.
+    Modified Darcula Solid Theme
+    + sidebars darker background
+    + more contrast for added and changed colors
     ]]></description>
 	<depends>com.intellij.modules.platform</depends>
 	<extensions defaultExtensionNs="com.intellij">
-		<themeProvider id="cc9aaf99-8ccc-44e2-92d0-b4949da8e8d0" path="Darcula_Solid_Clean.theme.json"/>
+		<themeProvider id="95132e45-f2d2-4283-b13d-0932fd731de1" path="/Darcula_Solid_Clean.theme.json"/>
 	</extensions>
 	<actions/>
 </idea-plugin>
