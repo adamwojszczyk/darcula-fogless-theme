@@ -4,9 +4,11 @@
 	<version>0.0.0</version>
 	<vendor email="adam.wojszczyk@gmail.com">Adam Wojszczyk</vendor>
 	<description><![CDATA[
-    Modified Darcula Solid Theme
-    + sidebars darker background
-    + more contrast for added and changed colors
+    <h2>Modified Darcula Solid Theme<h2>
+    <ul>
+    <li>sidebars darker background</li>
+    <li>more contrast for added and changed colors</li>
+    </ul>
     ]]></description>
 	<depends>com.intellij.modules.platform</depends>
 	<extensions defaultExtensionNs="com.intellij">
