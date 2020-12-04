@@ -1,19 +1,19 @@
 <idea-plugin>
 	<id>com.github.adamwojszczyk.darculaSolidCleanTheme</id>
-	<name>Darcula Solid Clean Theme</name>
+	<name>Darcula Solid Clear Theme</name>
 	<vendor email="adam.wojszczyk@gmail.com">Adam Wojszczyk</vendor>
 	<description><![CDATA[
-    <h2>Darcula Solid Clean Theme based on Darcula Solid Theme<h2>
+    <h2>Based on Darcula Solid Theme<h2>
     <ul>
     <li>darker sidebars background</li>
     <li>more contrast for (added,modified,deleted)</li>
     <li>change keyword font (bold -> regular)</li>
     </ul>
-    <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clean-theme/master/screenshots/main-window.png" border="0" alt="Main window screenshot">
+    <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clear-theme/master/screenshots/main-window.png" border="0" alt="Main window screenshot">
     ]]></description>
 	<depends>com.intellij.modules.platform</depends>
 	<extensions defaultExtensionNs="com.intellij">
-		<themeProvider id="95132e45-f2d2-4283-b13d-0932fd731de1" path="/Darcula_Solid_Clean.theme.json"/>
+		<themeProvider id="95132e45-f2d2-4283-b13d-0932fd731de1" path="/Darcula_Solid_Clear.theme.json"/>
 	</extensions>
 	<actions/>
 </idea-plugin>
