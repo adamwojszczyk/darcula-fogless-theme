@@ -10,7 +10,7 @@
     <li>more contrast for (added,modified,deleted)</li>
     <li>change keyword font (bold -> regular)</li>
     </ul>
-    <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clean-theme/master/screenshots/main-window.png" border="0" width="700" alt="Main window screenshot">
+    <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clean-theme/master/screenshots/main-window.png" border="0" alt="Main window screenshot">
     ]]></description>
 	<depends>com.intellij.modules.platform</depends>
 	<extensions defaultExtensionNs="com.intellij">
