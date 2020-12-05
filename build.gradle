@@ -1,11 +1,31 @@
 plugins {
-    id 'java'
-    id 'org.jetbrains.intellij' version '0.6.5'
+	id 'java'
+	id 'org.jetbrains.intellij' version '0.6.5'
 }
 
 group 'com.github.adamwojszczyk'
 version '0.0.1'
 
 intellij {
-    version '2020.3'
+	version '2020.3'
+}
+
+patchPluginXml {
+	pluginDescription = """
+    <h2>Based on Darcula Solid Theme<h2>
+    <h3>Modifications</h3>
+    <ul>
+    <li>darker sidebars background</li>
+    <li>more contrast for added, modified and deleted</li>
+    <li>changed keyword font (bold -> regular)</li>
+    <li>darker test files background in a project tree</li>
+    <li>darker non-project files background in a project tree</li>
+    </ul>
+    <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clear-theme/master/screenshots/main-window.png" border="0" alt="Main window screenshot">
+"""
+}
+
+publishPlugin {
+	token = System.getenv('ORG_GRADLE_PROJECT_intellijPublishToken')
+	channels 'alpha'
 }

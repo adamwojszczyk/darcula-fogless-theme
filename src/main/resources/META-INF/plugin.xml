@@ -2,17 +2,6 @@
 	<id>com.github.adamwojszczyk.darculaSolidClearTheme</id>
 	<name>Darcula Solid Clear Theme</name>
 	<vendor email="adam.wojszczyk@gmail.com">Adam Wojszczyk</vendor>
-	<description><![CDATA[
-    <h2>Based on Darcula Solid Theme<h2>
-    <ul>
-    <li>darker sidebars background</li>
-    <li>more contrast for added, modified and deleted</li>
-    <li>changed keyword font (bold -> regular)</li>
-    <li>darker test files background in a project tree</li>
-    <li>darker non-project files background in a project tree</li>
-    </ul>
-    <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clear-theme/master/screenshots/main-window.png" border="0" alt="Main window screenshot">
-    ]]></description>
 	<depends>com.intellij.modules.platform</depends>
 	<extensions defaultExtensionNs="com.intellij">
 		<themeProvider id="95132e45-f2d2-4283-b13d-0932fd731de1" path="/Darcula_Solid_Clear.theme.json"/>
