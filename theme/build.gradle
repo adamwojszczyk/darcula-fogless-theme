@@ -21,7 +21,7 @@ patchPluginXml {
     <li>darker test files background in a project tree</li>
     <li>darker non-project files background in a project tree</li>
     </ul>
-    <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clear-theme/master/screenshots/main-window.png" border="0" alt="Main window screenshot">
+    <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clear-theme/master/theme/screenshots/main-window.png" border="0" alt="Main window screenshot">
 """
 }
 
