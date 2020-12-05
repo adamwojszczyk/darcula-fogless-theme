@@ -20,7 +20,10 @@
 			"underlineColor": "#2f65ca",
 			"underlineHeight": 2
 		},
-		"FileColor.Green": "#1b201c",
+		"FileColor": {
+			"Green": "#1b201c",
+			"Yellow": "#1c1b1a"
+		},
 		"Borders": {
 			"color": "#3d3e40",
 			"ContrastBorderColor": "#3d3e40"
@@ -123,9 +126,6 @@
 				"unmatchedForeground": "#9192a3"
 			},
 			"FileHistory.Commit.selectedBranchBackground": "#252c40"
-		},
-		"FileColor": {
-			"Yellow": "#302E2D"
 		}
 	},
 	"icons": {
