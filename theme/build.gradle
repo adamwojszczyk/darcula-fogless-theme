@@ -6,14 +6,21 @@ plugins {
 group 'com.github.adamwojszczyk'
 version '0.0.2'
 
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.jetbrains:annotations:19.0.0'
+}
+
 intellij {
 	version '2020.3'
 }
 
 patchPluginXml {
 	pluginDescription = """
-    <h2>Based on Darcula Solid Theme<h2>
-    <h3>Modifications</h3>
+    <h3>Modifications of Darcula Solid Theme</h3>
     <ul>
     <li>darker sidebars background</li>
     <li>more contrast for added, modified and deleted</li>
@@ -21,6 +28,10 @@ patchPluginXml {
     <li>darker test files background in a project tree</li>
     <li>darker non-project files background in a project tree</li>
     </ul>
+    <br>
+    <a href="https://github.com/adamwojszczyk/darcula-solid-clear-theme">On GitHub</a> | <a href="https://github.com/adamwojszczyk/darcula-solid-clear-theme/issues">Report an issue</a>
+    <br><br><br>
+    
     <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clear-theme/master/theme/screenshots/main-window.png" border="0" alt="Main window screenshot">
 """
 }
