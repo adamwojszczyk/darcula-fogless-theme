@@ -24,6 +24,14 @@
 			"Green": "#1b201c",
 			"Yellow": "#1c1b1a"
 		},
+		"VersionControl": {
+			"RefLabel.foreground": "#CFD2D5",
+			"Log.Commit": {
+				"currentBranchBackground": "#1c1b1a",
+				"unmatchedForeground": "#9192a3"
+			},
+			"FileHistory.Commit.selectedBranchBackground": "#1c1b1a"
+		},
 		"Borders": {
 			"color": "#3d3e40",
 			"ContrastBorderColor": "#3d3e40"
@@ -118,14 +126,6 @@
 		},
 		"StatusBar": {
 			"hoverBackground": "#313234"
-		},
-		"VersionControl": {
-			"RefLabel.foreground": "#CFD2D5",
-			"Log.Commit": {
-				"currentBranchBackground": "#252c40",
-				"unmatchedForeground": "#9192a3"
-			},
-			"FileHistory.Commit.selectedBranchBackground": "#252c40"
 		}
 	},
 	"icons": {
