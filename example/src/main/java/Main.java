@@ -1,6 +1,6 @@
 class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Darcula Solid Clear Theme");
+		System.out.println("Darcula Fogless Theme");
 	}
 }
