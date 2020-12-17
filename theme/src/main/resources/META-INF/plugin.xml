@@ -1,10 +1,10 @@
 <idea-plugin>
-	<id>com.github.adamwojszczyk.darculaSolidClearTheme</id>
-	<name>Darcula Solid Clear Theme</name>
+	<id>com.github.adamwojszczyk.darculaFoglessTheme</id>
+	<name>Darcula Fogless Theme</name>
 	<vendor email="adam.wojszczyk@gmail.com">Adam Wojszczyk</vendor>
 	<depends>com.intellij.modules.platform</depends>
 	<extensions defaultExtensionNs="com.intellij">
-		<themeProvider id="95132e45-f2d2-4283-b13d-0932fd731de1" path="/Darcula_Solid_Clear.theme.json"/>
+		<themeProvider id="2e7f9ef1-3df5-400d-9ef6-5ba5915d669e" path="/Darcula_Fogless.theme.json"/>
 	</extensions>
 	<actions/>
 </idea-plugin>

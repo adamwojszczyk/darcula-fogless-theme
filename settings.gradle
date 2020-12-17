@@ -1,4 +1,4 @@
-rootProject.name = 'darcula-solid-clear-theme'
+rootProject.name = 'darcula-fogless-theme'
 
 include 'theme'
 include 'example'

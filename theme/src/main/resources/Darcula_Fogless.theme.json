@@ -1,8 +1,8 @@
 {
-	"name": "Darcula Solid Clear",
+	"name": "Darcula Fogless",
 	"dark": true,
 	"author": "Adam Wojszczyk",
-	"editorScheme": "/Darcula_Solid_Clear.xml",
+	"editorScheme": "/Darcula_Fogless.xml",
 	"ui": {
 		"*": {
 			"background": "#131314",

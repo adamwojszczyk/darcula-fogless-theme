@@ -29,9 +29,9 @@ patchPluginXml {
     <li>darker non-project files background in a project tree</li>
     </ul>
     <br>
-    <a href="https://github.com/adamwojszczyk/darcula-solid-clear-theme">On GitHub</a> | <a href="https://github.com/adamwojszczyk/darcula-solid-clear-theme/issues">Report an issue</a>
+    <a href="https://github.com/adamwojszczyk/darcula-fogless">On GitHub</a> | <a href="https://github.com/adamwojszczyk/darcula-fogless/issues">Report an issue</a>
     <br><br><br>
-    <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-solid-clear-theme/master/theme/screenshots/main-window.png" border="0" alt="Main window screenshot">
+    <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-fogless/master/theme/screenshots/main-window.png" border="0" alt="Main window screenshot">
 """
 }
 
