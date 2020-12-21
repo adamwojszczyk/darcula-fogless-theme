@@ -8,8 +8,8 @@
 			"background": "#131314",
 			"disabledBackground": "#252526",
 			"inactiveBackground": "#323335",
-			"selectionBackground": "#313234",
-			"selectionInactiveBackground": "#313234",
+			"selectionBackground": "#28292b",
+			"selectionInactiveBackground": "#28292b",
 			"lightSelectionBackground": "#353638",
 			"lightSelectionInactiveBackground": "#252526",
 			"borderColor": "#3d3e40",
@@ -84,48 +84,48 @@
 				"inactiveBackground": "#252526"
 			},
 			"HeaderTab": {
-				"underlinedTabBackground": "#313234"
+				"underlinedTabBackground": "#28292b"
 			},
 			"Button": {
-				"hoverBackground": "#313234",
-				"selectedBackground": "#313234"
+				"hoverBackground": "#28292b",
+				"selectedBackground": "#28292b"
 			}
 		},
 		"Popup": {
 			"Header": {
-				"activeBackground": "#313234",
-				"inactiveBackground": "#313234"
+				"activeBackground": "#28292b",
+				"inactiveBackground": "#28292b"
 			}
 		},
 		"DefaultTabs": {
 			"hoverBackground": "#00000000",
 			"underlineColor": "#2f65ca",
-			"underlinedTabBackground": "#313234",
+			"underlinedTabBackground": "#28292b",
 			"underlineHeight": 2
 		},
 		"SearchEverywhere": {
 			"Tab": {
 				"selectedForeground": "#CFD2D5",
-				"selectedBackground": "#313234"
+				"selectedBackground": "#28292b"
 			}
 		},
 		"Plugins": {
 			"Tab": {
-				"selectedBackground": "#313234",
-				"hoverBackground": "#313234"
+				"selectedBackground": "#28292b",
+				"hoverBackground": "#28292b"
 			},
-			"lightSelectionBackground": "#313234"
+			"lightSelectionBackground": "#28292b"
 		},
 		"EditorTabs": {
-			"selectedBackground": "#313234",
-			"underlinedTabBackground": "#313234",
+			"selectedBackground": "#28292b",
+			"underlinedTabBackground": "#28292b",
 			"underlinedTabForeground": "#CFD2D5",
 			"underlineColor": "#2f65ca",
 			"inactiveUnderlineColor": "#2f65ca",
 			"underlineHeight": 2
 		},
 		"StatusBar": {
-			"hoverBackground": "#313234"
+			"hoverBackground": "#28292b"
 		}
 	},
 	"icons": {

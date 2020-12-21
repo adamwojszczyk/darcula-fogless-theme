@@ -14,11 +14,11 @@
 
 		<!-- Darcula 6897bb -->
 		<!-- Darker -->
-		<option name="MODIFIED_LINES_COLOR" value="4e85ae"/>
-		<option name="FILESTATUS_MODIFIED" value="4e85ae"/>
-		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="4e85ae"/>
-		<option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="4e85ae"/>
-		<option name="FILESTATUS_modifiedOutside" value="4e85ae"/>
+		<option name="MODIFIED_LINES_COLOR" value="5a8eb5"/>
+		<option name="FILESTATUS_MODIFIED" value="5a8eb5"/>
+		<option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5a8eb5"/>
+		<option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5a8eb5"/>
+		<option name="FILESTATUS_modifiedOutside" value="5a8eb5"/>
 
 		<!-- Darcula 656e76 -->
 		<!-- Brighter -->
@@ -36,7 +36,10 @@
 		<option name="GUTTER_BACKGROUND" value="131314"/>
 
 		<option name="CARET_COLOR" value="f7f7f7"/>
-		<option name="CARET_ROW_COLOR" value="323335"/>
+
+		<!-- Darcula 323335 -->
+		<!-- Darker -->
+		<option name="CARET_ROW_COLOR" value="28292b"/>
 		<option name="DOCUMENTATION_COLOR" value="252526"/>
 		<option name="INDENT_GUIDE" value="2c2c2d"/>
 		<option name="INFORMATION_HINT" value="252526"/>

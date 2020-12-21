@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.github.adamwojszczyk'
-version '0.0.1'
+version '0.0.2.SNAPSHOT'
 
 repositories {
 	mavenCentral()
@@ -20,13 +20,10 @@ intellij {
 
 patchPluginXml {
 	pluginDescription = """
-    <h3>Modifications of Darcula Solid Theme</h3>
+    <h3>Goals</h3>
     <ul>
-    <li>darker sidebars background</li>
-    <li>more contrast for added, modified and deleted</li>
-    <li>changed keyword font (bold -> regular)</li>
-    <li>darker test files background in a project tree</li>
-    <li>darker non-project files background in a project tree</li>
+    <li>remove fog</li>
+    <li>increase contrast</li>
     </ul>
     <br>
     <a href="https://github.com/adamwojszczyk/darcula-fogless-theme">On GitHub</a> | <a href="https://github.com/adamwojszczyk/darcula-fogless-theme/issues">Report an issue</a>
@@ -36,6 +33,6 @@ patchPluginXml {
 }
 
 publishPlugin {
-	token = System.getenv('ORG_GRADLE_PROJECT_intellijPublishToken')
 	channels 'alpha'
+	token = System.getenv('ORG_GRADLE_PROJECT_intellijPublishToken')
 }
