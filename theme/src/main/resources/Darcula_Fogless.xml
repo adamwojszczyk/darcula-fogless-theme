@@ -40,7 +40,10 @@
 		<!-- Darcula 323335 -->
 		<!-- Darker -->
 		<option name="CARET_ROW_COLOR" value="28292b"/>
-		<option name="DOCUMENTATION_COLOR" value="252526"/>
+
+		<!-- Darcula 252526 -->
+		<!-- Darker -->
+		<option name="DOCUMENTATION_COLOR" value="131314"/>
 		<option name="INDENT_GUIDE" value="2c2c2d"/>
 		<option name="INFORMATION_HINT" value="252526"/>
 		<option name="RECENT_LOCATIONS_SELECTION" value="252526"/>
