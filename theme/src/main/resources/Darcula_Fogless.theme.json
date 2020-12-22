@@ -25,7 +25,7 @@
 			"Yellow": "#1c1b1a"
 		},
 		"VersionControl": {
-			"RefLabel.foreground": "#cfd2d5",
+			"RefLabel.foreground": "#babec3",
 			"Log.Commit": {
 				"hoveredBackground": "#3b3c3f",
 				"currentBranchBackground": "#1c1b1a",
@@ -106,7 +106,7 @@
 		},
 		"SearchEverywhere": {
 			"Tab": {
-				"selectedForeground": "#CFD2D5",
+				"selectedForeground": "#babec3",
 				"selectedBackground": "#28292b"
 			}
 		},
@@ -120,7 +120,7 @@
 		"EditorTabs": {
 			"selectedBackground": "#28292b",
 			"underlinedTabBackground": "#28292b",
-			"underlinedTabForeground": "#CFD2D5",
+			"underlinedTabForeground": "#babec3",
 			"underlineColor": "#2f65ca",
 			"inactiveUnderlineColor": "#2f65ca",
 			"underlineHeight": 2
