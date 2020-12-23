@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.github.adamwojszczyk'
-version '0.0.4.SNAPSHOT'
+version '0.0.4'
 
 repositories {
 	mavenCentral()
@@ -16,15 +16,33 @@ intellij {
 
 patchPluginXml {
 	pluginDescription = """
-    <h3>Goals</h3>
+    <h3>Darcula based theme</h3>
     <ul>
-    <li>remove fog</li>
-    <li>increase contrast</li>
+    <li>dark background</li>
+    <li>increased contrast</li>
     </ul>
     <br>
     <a href="https://github.com/adamwojszczyk/darcula-fogless-theme">On GitHub</a> | <a href="https://github.com/adamwojszczyk/darcula-fogless-theme/issues">Report an issue</a>
     <br><br><br>
     <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-fogless-theme/master/theme/screenshots/main-window.png" border="0" alt="Main window screenshot">
+"""
+	changeNotes = """
+	<i><b>0.0.4</b></i>
+	<ul>
+		<li><b>CONSOLE_NORMAL_OUTPUT</b> darker, same as <b>text</b></li>
+	</ul>
+	<i><b>0.0.3</b></i>
+	<ul>
+		<li><b>function declaration</b> two tones darker</li>
+		<li><b>text</b> two tones darker</li>
+		<li><b>javadoc background</b> dark</li>
+	</ul>
+	<i><b>0.0.2</b></i>
+	<ul>
+		<li><b>modified</b> one tone brighter</li>
+	</ul>
+	<i><b>0.0.1</b></i>
+	<ul><li>initial release</li></ul>
 """
 }
 
