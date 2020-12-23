@@ -209,6 +209,11 @@
 				<option name="FOREGROUND" value="8ea765"/>
 			</value>
 		</option>
+		<option name="DEFAULT_FUNCTION_DECLARATION">
+			<value>
+				<option name="FOREGROUND" value="ffb746"/>
+			</value>
+		</option>
 		<option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
 			<value>
 				<option name="BACKGROUND" value="3a483a"/>
