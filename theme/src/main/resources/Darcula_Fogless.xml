@@ -122,6 +122,13 @@
 				<option name="FOREGROUND" value="ececec"/>
 			</value>
 		</option>
+		<option name="CONSOLE_NORMAL_OUTPUT">
+			<value>
+				<!-- Darcula bbbbbb -->
+				<!-- Darker -->
+				<option name="FOREGROUND" value="babec3"/>
+			</value>
+		</option>
 		<option name="CONSOLE_WHITE_OUTPUT">
 			<value>
 				<option name="FOREGROUND" value="f1f1f0"/>
