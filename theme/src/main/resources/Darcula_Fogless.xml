@@ -220,7 +220,7 @@
 		<!-- Darker -->
 		<option name="DEFAULT_FUNCTION_DECLARATION">
 			<value>
-				<option name="FOREGROUND" value="ffb746"/>
+				<option name="FOREGROUND" value="f1b454"/>
 			</value>
 		</option>
 		<option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">

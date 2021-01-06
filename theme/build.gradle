@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.github.adamwojszczyk'
-version '0.0.4'
+version '0.0.5'
 
 repositories {
 	mavenCentral()
@@ -27,6 +27,10 @@ patchPluginXml {
     <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-fogless-theme/master/theme/screenshots/main-window.png" border="0" alt="Main window screenshot">
 """
 	changeNotes = """
+	<i><b>0.0.5</b></i>
+	<ul>
+		<li><b>function declaration</b> one tone darker</li>
+	</ul>
 	<i><b>0.0.4</b></i>
 	<ul>
 		<li><b>CONSOLE_NORMAL_OUTPUT</b> darker, same as <b>text</b></li>
