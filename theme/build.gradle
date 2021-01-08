@@ -27,6 +27,10 @@ patchPluginXml {
     <img src="https://raw.githubusercontent.com/adamwojszczyk/darcula-fogless-theme/master/theme/screenshots/main-window.png" border="0" alt="Main window screenshot">
 """
 	changeNotes = """
+	<i><b>0.0.6</b></i>
+	<ul>
+		<li>Use scale of green for <b>VCS_ANNOTATIONS_COLOR_*</b>, old (darker) -> new (brighter); depth effect</li>
+	</ul>
 	<i><b>0.0.5</b></i>
 	<ul>
 		<li><b>function declaration</b> one tone darker</li>
